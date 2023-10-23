@@ -1,0 +1,647 @@
+.frame-1, .frame-1 * {
+  box-sizing: border-box;
+  }
+.frame-1 {
+ width: 4462px;
+  height: 9755px;
+  position: relative;
+ }
+
+.rectangle-4 {
+ background: #ffaa5b;
+  width: 407px;
+  height: 307px;
+  position: absolute;
+  left: -8690px;
+ top: -266px;
+ }
+
+.pagina-principal {
+ background: #ffffff;
+  width: 4462px;
+  height: 9755px;
+  position: absolute;
+  left: 0px;
+ top: 0px;
+  overflow: hidden;
+ }
+
+.ellipse-1 {
+ position: absolute;
+  left: -5272px;
+ top: 259px;
+  overflow: visible;
+ }
+
+.study-exam-and-books-1 {
+ border-radius: 696px;
+  opacity: 0.5600000023841858;
+  width: 4920px;
+  height: 1567px;
+  position: absolute;
+  left: 351px;
+ top: 259px;
+ }
+
+.learn-connect {
+ color: rgba(0, 0, 0, 0.98);
+  text-align: left;
+  position: absolute;
+  left: 0px;
+ top: 70px;
+  width: 957px;
+  height: 230.26px;
+ }
+
+.learn-connect-span {
+ 
+         color: rgba(0, 0, 0, 0.98);
+ 
+         font: 700 110px 'Inter', sans-serif;
+ 
+         
+         
+     }
+
+.learn-connect-span2 {
+ 
+         color: rgba(0, 0, 0, 0.98);
+ 
+         font: 700 100px 'Inter', sans-serif;
+ 
+         
+         
+     }
+
+.learn-connect-span3 {
+ 
+         color: rgba(0, 0, 0, 0.98);
+ 
+         font: 700 128px 'Inter', sans-serif;
+ 
+         
+         
+     }
+
+.cursos {
+ color: #000000;
+  text-align: left;
+  font: 400 96px 'Inter', sans-serif;
+  position: absolute;
+  left: 1307px;
+ top: 82px;
+  width: 344px;
+  height: 103px;
+ }
+
+.nosotros {
+ color: #000000;
+  text-align: left;
+  font: 400 96px 'Inter', sans-serif;
+  position: absolute;
+  left: 2899px;
+ top: 82px;
+  width: 456px;
+  height: 103px;
+ }
+
+.rectangle-7 {
+ border-radius: 0px;
+  position: absolute;
+  left: 1820px;
+ top: 78px;
+  overflow: visible;
+ }
+
+.buscar {
+ color: #000000;
+  text-align: left;
+  font: 400 96px 'Inter', sans-serif;
+  position: absolute;
+  left: 2154px;
+ top: 89px;
+  width: 353px;
+  height: 103px;
+ }
+
+.vector {
+ position: absolute;
+  left: 1869px;
+ top: 89.49px;
+  overflow: visible;
+ }
+
+.rectangle-14 {
+ background: #090c11;
+  width: 4462px;
+  height: 2252px;
+  position: absolute;
+  left: 0px;
+ top: 7503px;
+ }
+
+.ellipse-5 {
+ background: #ffffff;
+  border-radius: 50%;
+  width: 556px;
+  height: 555px;
+  position: absolute;
+  left: 1993px;
+ top: 7179px;
+ }
+
+.rectangle-15 {
+ border-radius: 363px;
+  width: 1544px;
+  height: 1290px;
+  position: absolute;
+  left: 110px;
+ top: 7856px;
+ }
+
+.en-raccoon-nuestra-misi-n-es-clara-proporcionarte-soluciones-web-que-se-adapten-a-tus-necesidades-espec-ficas-no-creemos-en-un-enfoque-de-talla-nica-para-todos-ya-que-cada-empresa-es-nica-nos-comprometemos-a-comprender-tus-objetivos-valores-y-visi-n-para-dise-ar-y-desarrollar-una-p-gina-web-que-refleje-con-precisi-n-la-esencia-de-tu-marca {
+ color: #ffffff;
+  text-align: left;
+  font: 400 128px 'Dongle', sans-serif;
+  position: absolute;
+  left: 2091px;
+ top: 7927px;
+  width: 2311px;
+  height: 1459px;
+ }
+
+.line-1 {
+ border-style: solid;
+  border-color: #ffffff;
+  border-width: 15px 0 0 0;
+  width: 4462.01px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+ top: 9378px;
+  transform-origin: 0 0;
+  transform: rotate(0.103deg) scale(1, 1);
+ }
+
+.rectangle-16 {
+ border-radius: 0px;
+  position: absolute;
+  left: 3674px;
+ top: 78px;
+  overflow: visible;
+ }
+
+.ingresar {
+ color: #000000;
+  text-align: left;
+  font: 400 96px 'Inter', sans-serif;
+  position: absolute;
+  left: 3940px;
+ top: 93px;
+  width: 375px;
+  height: 93px;
+ }
+
+.vector2 {
+ position: absolute;
+  left: 3747px;
+ top: 90px;
+  overflow: visible;
+ }
+
+.nosotros2 {
+ color: #ffffff;
+  text-align: center;
+  font: 400 300px 'Dongle', sans-serif;
+  position: absolute;
+  left: 3187px;
+ top: 7558px;
+  width: 1275px;
+  height: 351px;
+ }
+
+.rectangle-6 {
+ position: absolute;
+  left: 2512px;
+ top: 255px;
+  overflow: visible;
+ }
+
+.entrar {
+ color: #000000;
+  text-align: center;
+  font: 400 64px 'Jua', sans-serif;
+  position: absolute;
+  left: 615px;
+ top: -396px;
+  width: 481px;
+  height: 139px;
+ }
+
+.logout {
+ position: absolute;
+  left: 1646px;
+ top: 979px;
+  overflow: visible;
+ }
+
+.logout2 {
+ width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 286px;
+ top: 422px;
+  overflow: hidden;
+ }
+
+.descubre-nuevos-conocimientos {
+ color: #fff8f8;
+  text-align: left;
+  font: 400 200px 'Baloo Thambi', sans-serif;
+  position: absolute;
+  left: 2673px;
+ top: 642px;
+  width: 1789px;
+  height: 764px;
+ }
+
+.descubre-nuevos-conocimientos2 {
+ color: #000000;
+  text-align: left;
+  font: 400 200px 'Baloo Thambi', sans-serif;
+  position: absolute;
+  left: 2657px;
+ top: 642px;
+  width: 1789px;
+  height: 764px;
+ }
+
+.cursos2 {
+ color: #000000;
+  text-align: left;
+  font: 400 96px 'Inter', sans-serif;
+  position: absolute;
+  left: 3952px;
+ top: 518px;
+  width: 456px;
+  height: 103px;
+ }
+
+.boton-crear-cuenta {
+ border-radius: 0px;
+  position: absolute;
+  left: 3315px;
+ top: 1325px;
+  overflow: visible;
+ }
+
+.boton-crear-cuenta2 {
+ border-radius: 0px;
+  position: absolute;
+  left: 3351px;
+ top: 1295px;
+  overflow: visible;
+ }
+
+.crea-tu-cuenta {
+ color: #fff2f2;
+  text-align: left;
+  font: 400 96px 'Inter', sans-serif;
+  position: absolute;
+  left: 3439px;
+ top: 1313px;
+  width: 743px;
+  height: 103px;
+ }
+
+.login {
+ background: #000000;
+  width: 4462px;
+  height: 1784px;
+  position: absolute;
+  left: 0px;
+ top: 1818px;
+  overflow: hidden;
+ }
+
+.ellipse-4 {
+ background: #57c2c2;
+  border-radius: 50%;
+  width: 1415.54px;
+  height: 1483.53px;
+  position: absolute;
+  left: 5294.51px;
+ top: 892px;
+  transform-origin: 0 0;
+  transform: rotate(89.682deg) scale(1, 1);
+ }
+
+.vector4 {
+ position: absolute;
+  left: 4342.09px;
+ top: 1457.7px;
+  transform: translate(-169.62px, -162.22px);
+  overflow: visible;
+ }
+
+.logo {
+ position: absolute;
+  inset: 0;
+ }
+
+.g-6650 {
+ position: absolute;
+  left: 708px;
+ top: 290px;
+  overflow: visible;
+ }
+
+.g-66502 {
+ position: absolute;
+  left: 738px;
+ top: 300px;
+  overflow: visible;
+ }
+
+.ellipse-3 {
+ background: rgba(192, 232, 163, 0.96);
+  border-radius: 50%;
+  width: 1415.54px;
+  height: 1483.53px;
+  position: absolute;
+  left: -746px;
+ top: 3262.54px;
+  transform-origin: 0 0;
+  transform: rotate(-89.977deg) scale(1, 1);
+ }
+
+.rectangle-10 {
+ background: #57c2c2;
+  width: 4462px;
+  height: 317px;
+  position: absolute;
+  left: 0px;
+ top: 3771px;
+ }
+
+.rectangle-9 {
+ background: #bae09e;
+  width: 4462px;
+  height: 338px;
+  position: absolute;
+  left: 0px;
+ top: 3602px;
+ }
+
+.ellipse-2 {
+ background: #000000;
+  border-radius: 50%;
+  width: 709px;
+  height: 677px;
+  position: absolute;
+  left: 1912px;
+ top: 3156px;
+ }
+
+.ellipse-42 {
+ background: #ffffff;
+  border-radius: 50%;
+  width: 709px;
+  height: 677px;
+  position: absolute;
+  left: 1912px;
+ top: 3866px;
+ }
+
+.mask-group {
+ position: absolute;
+  inset: 0;
+ }
+
+.rectangle-11 {
+ width: 2097px;
+  height: 2735px;
+  position: absolute;
+  left: 2365px;
+ top: 4374px;
+ }
+
+.rectangle-112 {
+ border-radius: 267px;
+  width: 2097px;
+  height: 2735px;
+  position: absolute;
+  left: 0px;
+ top: 0px;
+ }
+
+.aprendizaje-entre-pares {
+ color: #060606;
+  text-align: center;
+  font: 400 300px 'Dongle', sans-serif;
+  position: absolute;
+  left: 117px;
+ top: 4324px;
+  width: 2055px;
+  height: 425px;
+ }
+
+.rectangle-12 {
+ border-radius: 0px;
+  position: absolute;
+  left: 3196px;
+ top: 4296px;
+  transform: translate(-928.71px, -4.63px);
+  overflow: visible;
+ }
+
+.rectangle-13 {
+ border-radius: 0px;
+  position: absolute;
+  left: 3705.1px;
+ top: 7128.51px;
+  transform: translate(31.8px, -789.5px);
+  overflow: visible;
+ }
+
+.bienvenido-a-cursos-para-estudiantes-la-plataforma-donde-los-estudiantes-ense-an-a-otros-estudiantes-descubre-cursos-creados-por-profesionales-y-compa-eros-de-estudios-que-comparten-tus-intereses-perfecciona-tus-habilidades-con-lecciones-guiadas-por-personas-que-caminan-por-el-mismo-camino-acad-mico-que-t-aprender-juntos-es-mucho-m-s-divertido-desde-contabilidad-hasta-zoolog-a-nuestra-biblioteca-de-cursos-en-constante-expansi-n-cubre-una-gran-variedad-de-temas-para-satisfacer-tus-intereses-acad-micos {
+ color: #000000;
+  text-align: left;
+  font: 400 128px 'Dongle', sans-serif;
+  position: absolute;
+  left: 134px;
+ top: 4821px;
+  width: 2177px;
+  height: 2308px;
+ }
+
+.rectangle {
+ background: #d9d9d9;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: -3499px;
+ top: 1990px;
+ }
+
+.gmail {
+ position: absolute;
+  left: 2011px;
+ top: 9440px;
+  overflow: visible;
+ }
+
+.github {
+ position: absolute;
+  left: 2426px;
+ top: 9455px;
+  overflow: visible;
+ }
+
+.rectangle-30 {
+ background: linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #b8df9c, #b8df9c);
+  border-radius: 143px;
+  width: 1368px;
+  height: 1449px;
+  position: absolute;
+  left: 69px;
+ top: 2140px;
+ }
+
+.rectangle-31 {
+ background: linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee);
+  border-radius: 143px;
+  width: 1368px;
+  height: 1449px;
+  position: absolute;
+  left: 1544px;
+ top: 2140px;
+ }
+
+.rectangle-32 {
+ background: linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee);
+  border-radius: 143px;
+  width: 1368px;
+  height: 1449px;
+  position: absolute;
+  left: 3019px;
+ top: 2140px;
+ }
+
+.rectangle-33 {
+ background: linear-gradient(to left, #ffffff, #ffffff), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee);
+  border-radius: 143px;
+  width: 1290px;
+  height: 1109px;
+  position: absolute;
+  left: 110px;
+ top: 2174px;
+ }
+
+.la-cantidad-de-contenido-educativo-de-alta-calidad-que-ofrecen-es-impresionante-he-mejorado-mis-habilidades-en-diversas-reas-gracias-a-sus-cursos {
+ color: #000000;
+  text-align: left;
+  font: 300 90px 'Inter', sans-serif;
+  position: absolute;
+  left: 206px;
+ top: 2242px;
+  width: 1189px;
+  height: 642px;
+ }
+
+.rectangle-34 {
+ background: linear-gradient(to left, #ffffff, #ffffff), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee);
+  border-radius: 143px;
+  width: 1304px;
+  height: 1109px;
+  position: absolute;
+  left: 1577px;
+ top: 2174px;
+ }
+
+.rectangle-35 {
+ background: linear-gradient(to left, #ffffff, #ffffff), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee), linear-gradient(to left, #eeeeee, #eeeeee);
+  border-radius: 143px;
+  width: 1298px;
+  height: 1109px;
+  position: absolute;
+  left: 3052px;
+ top: 2155px;
+ }
+
+.ellipse-10 {
+ border-radius: 50%;
+  width: 251px;
+  height: 257px;
+  position: absolute;
+  left: 134px;
+ top: 3304px;
+ }
+
+.ellipse-11 {
+ border-radius: 50%;
+  width: 251px;
+  height: 257px;
+  position: absolute;
+  left: 1611px;
+ top: 3304px;
+ }
+
+.ellipse-12 {
+ border-radius: 50%;
+  width: 251px;
+  height: 257px;
+  position: absolute;
+  left: 3097px;
+ top: 3304px;
+ }
+
+.icon-double-check {
+ position: absolute;
+  left: 1162px;
+ top: 3354px;
+  overflow: visible;
+ }
+
+.los-cursos-son-excelentes-f-ciles-de-seguir-y-asequibles-realmente-ha-hecho-que-mi-aprendizaje-sea-accesible-y-emocionante {
+ color: #000000;
+  text-align: left;
+  font: 300 90px 'Inter', sans-serif;
+  position: absolute;
+  left: 1611px;
+ top: 2361px;
+  width: 1296px;
+  height: 647px;
+ }
+
+.estoy-impresionado-por-la-variedad-de-temas-y-la-calidad-de-los-cursos-en-esta-p-gina-una-experiencia-de-aprendizaje-verdaderamente-incre-ble {
+ color: #000000;
+  text-align: left;
+  font: 300 90px 'Inter', sans-serif;
+  position: absolute;
+  left: 3073px;
+ top: 2388px;
+  width: 1296px;
+  height: 647px;
+ }
+
+.rectangle-36 {
+ background: rgba(5, 0, 0, 0.81);
+  width: 4466px;
+  height: 293px;
+  position: absolute;
+  left: -4px;
+ top: 1847px;
+ }
+
+.nete-a-m-s-de-1-000-creadores-en-todo-el-mundo {
+ color: #ffffff;
+  text-align: center;
+  font: 400 300px 'Dongle', sans-serif;
+  position: absolute;
+  left: -124px;
+ top: 1764px;
+  width: 4759px;
+  height: 230px;
+ }
+

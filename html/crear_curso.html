@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/crear_curso.css">
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+</head>
+    <title>Crear Curso</title>
+</head>
+<body>
+    <h1>Crear un Curso</h1>
+    <form id="curso-form">
+        <label for="nombre">Nombre del Curso:</label>
+        <input type="text" id="nombre" name="nombre" required><br>
+
+        <label for="descripcion">Descripción:</label>
+        <textarea id="descripcion" name="descripcion" required></textarea><br>
+
+        <label for="imagenes">Imágenes:</label>
+        <input type="file" id="imagenes" name="imagenes" accept="image/*" multiple><br>
+
+        <label for="videos">Videos:</label>
+        <input type="file" id="videos" name="videos" accept="video/*" multiple><br>
+
+        <label for="texto">Texto:</label>
+        <script src="config-tinymce.js"></script>
+        <textarea id="texto" name="texto"></textarea><br>
+
+        <label for="capitulos">Dividir en Capítulos:</label>
+        <input type="text" id="capitulos" name="capitulos"><br>
+
+        <label for="preguntas">Preguntas de Opción Múltiple:</label>
+        <button id="agregar-pregunta">Agregar Pregunta</button>
+        <div id="preguntas-container"></div>
+
+        <button type="submit">Crear Curso</button>
+    </form>
+    <script src="/js/crear_curso.js"></script>
+</body>
+</html>
